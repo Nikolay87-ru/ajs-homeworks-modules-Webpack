@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("app worked"),console.log("Index module loaded")})();
